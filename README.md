@@ -4,6 +4,6 @@
 <img src ="https://github.com/bhargav-joshi/UI-UX-Works/blob/main/PNG/sign-up-bj.png" width=300>
 
 ## E-learning App UI 
-<img src ="https://github.com/bhargav-joshi/UI-UX-Works/blob/main/PNG/image.png" width=800>
+<img src ="https://github.com/bhargav-joshi/UI-UX-Works/blob/main/PNG/ELearn.png?raw=true" width=1000>
 
 
